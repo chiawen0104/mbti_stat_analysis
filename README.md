@@ -10,3 +10,11 @@ Each MBTI dimension is modeled as a continuous random variable representing an i
 Unlike many studies that focus on predicting a person’s MBTI type or classifying text, this project takes a structural approach to analyze the relationships among the four MBTI dimensions themselves. By modeling each dimension as a continuous random variable, we can uncover how these traits interact rather than treating them as isolated categories. This probabilistic analysis helps reveal whether certain traits tend to co-occur, oppose each other, or remain largely independent. Understanding these structural patterns not only deepens our statistical view of personality but also provides insight for improving psychological assessments, designing personality-based recommendation systems, and refining future personality models.
 
 
+## Used Packages
+
+- matplotlib
+- seaborn
+- sklearn
+- pingouin
+- scipy
+
